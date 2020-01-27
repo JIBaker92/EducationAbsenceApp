@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Education Absence App</string>
+
+    <string-array name="email_addresses">
+        <item>21009155@bucks.ac.uk</item>
+        <item>21009155jb@gmail.com</item>
+        <item>j_i_baker@yahoo.co.uk</item>
+        <item>richard.jones@bucks.ac.uk</item>
+    </string-array>
+
 </resources>
